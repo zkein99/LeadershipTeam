@@ -10,5 +10,5 @@ Each trimester folder should contain the following subfolders:
 - "PolicyAndProcess"  Store any documents here that relate to the organisation and running of each company
 - "LogosBranding"     Store any artefacts here related to the branding of the Chameleon company including original artwork files, photographic images, illustratutions, branding or logos.
 
-#Ownership
+## Ownership
 Ownership of this repository rests with the Acting Director or their delegate.
