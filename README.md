@@ -1,4 +1,4 @@
-<img src="branding/images/chameleon-eye-banner.png" alt="Chameleon Leadership Team" width="585"/>
+<img src="branding/images/chameleon-leadership-banner-slim.png" alt="Chameleon Leadership Team" width="768"/>
 # Leadership Team Repository
 
 This repository is designed to store any important collatoral produced by the leadership team of Chameleon.
