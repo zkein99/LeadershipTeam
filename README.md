@@ -2,15 +2,22 @@
 
 # Leadership Team Repository
 
-This repository is designed to store any important collatoral produced by the leadership team of Chameleon.
+This repository is designed to store any important collateral produced and used by the leadership team of Chameleon.
 
-Content is organised in folders corresponding to the trimester of study and follows the format {YYYY}-T{z} where {YYYY} is the year of study and {z} is the Trimester.
+Sub-Directory archives are to be pre-fixed with the corresponding year and trimester of study and follows the format {YYYY}-T{z} where {YYYY} is the year of study and {z} is the Trimester.
 eg. "2022-T1" for Trimester 1 in 2022.
 
-Each trimester folder should contain the following subfolders:
-- "AssessmentTasks"   Store company wide group assessment tasks here.
-- "PolicyAndProcess"  Store any documents here that relate to the organisation and running of each company
-- "LogosBranding"     Store any artefacts here related to the branding of the Chameleon company including original artwork files, photographic images, illustratutions, branding or logos.
+## Directory 
+| Directory | Document | Description|
+|:---   |:---   |:---   |
+|Assessment Tasks  | | Task templates and archive.  |
+|    |   2022-T1 | 2022 - Trimester one submission archive. |
+|    |   2023-T1 | 2023 - Trimester one submission archive. |
+|Branding|     | Company wide branding documents and assets. |
+|    | Many Subs | Requires reorganising. |
+|Leadership Tools | | Checklists, Templates, and other helpful tools to make leading a little less time consuming.|
+|     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Chameleon_Policies_and_Guides/Trimester%20Wind%20Up.md" target="_blank">Trimester Wind Up</a>  | Contains a helpful checklist to get everything underway at the beginning of a new trimester. |
+|     | <a href="https://github.com/Chameleon-company/Chameleon-Documents/blob/456172a8b29719b543bfdca0d651b36c5e955015/Chameleon_Policies_and_Guides/Trimester%20Wind%20Down.md" target="_blank">Trimester Wind Down</a>  | Contains a helpful checklist to get everything ready for handover. |
 
 ## Ownership
 Ownership of this repository rests with the Acting Director or their delegate.
