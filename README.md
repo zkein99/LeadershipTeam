@@ -17,7 +17,7 @@ eg. "2022-T1" for Trimester 1 in 2022.
 |    | Many Subs | Requires reorganising. |
 |Leadership Tools | | Checklists, Templates, and other helpful tools to make leading a little less time consuming.|
 |     | <a href="https://github.com/Chameleon-company/LeadershipTeam/blob/164dc0dd9d5bff6f7cda8b54e1736806a66b7d04/Leadership%20Tools/Trimester%20Wind%20Up.md" target="_blank">Trimester Wind Up</a>  | Contains a helpful checklist to get everything underway at the beginning of a new trimester. |
-|     | <a href="https://github.com/Chameleon-company/LeadershipTeam/blob/164dc0dd9d5bff6f7cda8b54e1736806a66b7d04/Leadership%20Tools/Trimester%20Wind%20Down.md" target="_blank">Trimester Wind Down</a>  | Contains a helpful checklist to get everything ready for handover. |
+|     | <a href="https://github.com/Chameleon-company/LeadershipTeam/blob/f8b8d97fcf5018f07fdc27ab9428d0df832da66d/Leadership%20Tools/Trimester%20Wind%20Down.md" target="_blank">Trimester Wind Down</a>  | Contains a helpful checklist to get everything ready for handover. |
 
 ## Ownership
 Ownership of this repository rests with the Acting Director or their delegate.
